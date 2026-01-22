@@ -1,0 +1,676 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem 3 assignments\\Freelancer app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\editclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\editclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|d:\\sem 3 assignments\\freelancer app\\freelancer app\\editclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\editclientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Bidding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\Bidding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientcompletedproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientcompletedproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\loginregisterr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\loginregisterr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\loginregisterr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\loginregisterr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\bidding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\bidding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\projectsubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientcompletedproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientcompletedproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\freelancerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\freelancerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientbiddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientbiddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\biddingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\biddingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ClientDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ProjectSubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ProjectSubmit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ViewProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ViewProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\Dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\viewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditFreelancerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\EditFreelancerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\editfreelancerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\editfreelancerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\BiddingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\BiddingStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\forgotpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\resetpasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ResetPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\OtpVerificationForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\OtpVerificationForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\otpverificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\otpverificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\Freelancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\FreelancerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\FreelancerProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ForgotPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ForgotPasswordForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ClientProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\freelancer app\\clientprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:freelancer app\\clientprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ClientProjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientBiddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\ClientBiddings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C3B549-92C9-43CE-871D-A9DA78F9206C}|Freelancer app\\Freelancer app.csproj|solutionrelative:Freelancer app\\LoginRegisterr.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRegisterr.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\LoginRegisterr.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.cs",
+              "RelativeToolTip": "Freelancer app\\LoginRegisterr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:06:11.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyProjects.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\MyProjects.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\MyProjects.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\MyProjects.cs",
+              "RelativeToolTip": "Freelancer app\\MyProjects.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:09:39.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditClientProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditClientProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\EditClientProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditClientProfile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\EditClientProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:36:45.17Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditClientProfile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditClientProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\EditClientProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditClientProfile.cs",
+              "RelativeToolTip": "Freelancer app\\EditClientProfile.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAjwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:36:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProfile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ClientProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:36:43.36Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyProjects.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\MyProjects.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\MyProjects.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\MyProjects.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\MyProjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:38:47.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bidding.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Bidding.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Bidding.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Bidding.cs",
+              "RelativeToolTip": "Freelancer app\\Bidding.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAADwvz8AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:09:18.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRegisterr.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\LoginRegisterr.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\LoginRegisterr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:06:09.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientCompletedProject.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientCompletedProject.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientCompletedProject.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientCompletedProject.cs",
+              "RelativeToolTip": "Freelancer app\\ClientCompletedProject.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwPAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:58:44.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bidding.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Bidding.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Bidding.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Bidding.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\Bidding.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:38:38.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectSubmit.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ProjectSubmit.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ProjectSubmit.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ProjectSubmit.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ProjectSubmit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:39:08.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientCompletedProject.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientCompletedProject.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientCompletedProject.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientCompletedProject.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ClientCompletedProject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:58:42.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Profile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Profile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Profile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:08:50.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Freelancer.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Freelancer.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Freelancer.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Freelancer.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\Freelancer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:39:02.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FreelancerProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\FreelancerProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\FreelancerProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\FreelancerProfile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\FreelancerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:40:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientBiddings.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientBiddings.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientBiddings.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientBiddings.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ClientBiddings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:38:33.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BiddingStatus.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\BiddingStatus.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\BiddingStatus.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\BiddingStatus.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\BiddingStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:20:15.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientDashboard.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientDashboard.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientDashboard.cs",
+              "RelativeToolTip": "Freelancer app\\ClientDashboard.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAAwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:36:30.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientDashboard.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientDashboard.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientDashboard.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ClientDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T20:54:08.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProjectSubmit.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ProjectSubmit.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ProjectSubmit.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ProjectSubmit.cs",
+              "RelativeToolTip": "Freelancer app\\ProjectSubmit.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAIA2wCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:21:08.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewProfile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ViewProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ViewProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ViewProfile.cs",
+              "RelativeToolTip": "Freelancer app\\ViewProfile.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAANkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:23:36.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Dashboard.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Dashboard.cs",
+              "RelativeToolTip": "Freelancer app\\Dashboard.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAADgv70BAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:48:40.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Dashboard.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:20:54.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ViewProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ViewProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ViewProfile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ViewProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:19:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditFreelancerProfile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditFreelancerProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\EditFreelancerProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditFreelancerProfile.cs",
+              "RelativeToolTip": "Freelancer app\\EditFreelancerProfile.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAIAwwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:06:22.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditFreelancerProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditFreelancerProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\EditFreelancerProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\EditFreelancerProfile.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\EditFreelancerProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:06:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BiddingStatus.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\BiddingStatus.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\BiddingStatus.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\BiddingStatus.cs",
+              "RelativeToolTip": "Freelancer app\\BiddingStatus.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwIIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:28:03.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Profile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Profile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Profile.cs",
+              "RelativeToolTip": "Freelancer app\\Profile.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:28.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ForgotPasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ForgotPasswordForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ForgotPasswordForm.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ForgotPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:06:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ResetPasswordForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ResetPasswordForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ResetPasswordForm.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ResetPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:12:13.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResetPasswordForm.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ResetPasswordForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ResetPasswordForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ResetPasswordForm.cs",
+              "RelativeToolTip": "Freelancer app\\ResetPasswordForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:12:14.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OtpVerificationForm.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\OtpVerificationForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\OtpVerificationForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\OtpVerificationForm.cs",
+              "RelativeToolTip": "Freelancer app\\OtpVerificationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:16.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OtpVerificationForm.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\OtpVerificationForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\OtpVerificationForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\OtpVerificationForm.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\OtpVerificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:10:15.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Message.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Message.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Message.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Message.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\Message.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:09:25.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Freelancer.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Freelancer.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\Freelancer.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\Freelancer.cs",
+              "RelativeToolTip": "Freelancer app\\Freelancer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAiwDQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:53:02.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FreelancerProfile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\FreelancerProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\FreelancerProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\FreelancerProfile.cs",
+              "RelativeToolTip": "Freelancer app\\FreelancerProfile.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAIwMgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:43:36.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ForgotPasswordForm.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ForgotPasswordForm.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ForgotPasswordForm.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ForgotPasswordForm.cs",
+              "RelativeToolTip": "Freelancer app\\ForgotPasswordForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:06:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClientProfile.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientProfile.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProfile.cs",
+              "RelativeToolTip": "Freelancer app\\ClientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T12:40:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClientProjects.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProjects.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientProjects.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProjects.cs [Design]",
+              "RelativeToolTip": "Freelancer app\\ClientProjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:38:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ClientProjects.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProjects.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientProjects.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientProjects.cs",
+              "RelativeToolTip": "Freelancer app\\ClientProjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:36:54.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientBiddings.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientBiddings.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\ClientBiddings.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\ClientBiddings.cs",
+              "RelativeToolTip": "Freelancer app\\ClientBiddings.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAowB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:46:14.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginRegisterr.Designer.cs",
+              "DocumentMoniker": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.Designer.cs",
+              "RelativeDocumentMoniker": "Freelancer app\\LoginRegisterr.Designer.cs",
+              "ToolTip": "D:\\Sem 3 assignments\\Freelancer app\\Freelancer app\\LoginRegisterr.Designer.cs",
+              "RelativeToolTip": "Freelancer app\\LoginRegisterr.Designer.cs",
+              "ViewState": "AgIAANYBAAAAAAAAAAAAwPcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T11:39:07.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

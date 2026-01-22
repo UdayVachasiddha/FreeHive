@@ -1,0 +1,55 @@
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer app.csproj.AssemblyReference.cache
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.Bidding.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientBiddings.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientCompletedProject.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientDashboard.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientMessages.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientProfile.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ClientProjects.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.Dashboard.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ForgotPasswordForm.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.Freelancer.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.FreelancerProfile.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.LoginRegisterr.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.MyProjects.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.OtpVerificationForm.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.Profile.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.Properties.Resources.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.txtNewPassword.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer_app.ViewProfile.resources
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer app.csproj.GenerateResource.cache
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer app.csproj.CoreCompileInputs.cache
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Freelancer app.exe.config
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Freelancer app.exe
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Freelancer app.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\FirebaseAdmin.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.Rest.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Auth.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Core.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Guna.UI2.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Newtonsoft.Json.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Collections.Immutable.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.ValueTuple.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Memory.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Buffers.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\System.Numerics.Vectors.dll
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\FirebaseAdmin.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Api.Gax.Rest.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Auth.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Auth.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Core.pdb
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Google.Apis.Core.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\bin\Debug\Newtonsoft.Json.xml
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelanc.78302652.Up2Date
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer app.exe
+D:\Sem 3 assignments\Freelancer app\Freelancer app\obj\Debug\Freelancer app.pdb
