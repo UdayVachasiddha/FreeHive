@@ -1,2 +1,2 @@
 # FreeHive
-Hello! my name is Uday Vachasiddha.
+An app that connects users with each other as clients and freelancers.
