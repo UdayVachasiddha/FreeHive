@@ -60,10 +60,14 @@
 
 ## 📸 Screenshots
 
-*(Add screenshots of your application here to showcase the UI)*
-- **Login Screen:** `![Login Screen](link_to_image)`
-- **Client Dashboard:** `![Client Dashboard](link_to_image)`
-- **Freelancer Dashboard:** `![Freelancer Dashboard](link_to_image)`
+- **Login Screen:**
+  <br>![Login Screen](Assets/login.png)
+
+- **Freelancer Dashboard:**
+  <br>![Freelancer Dashboard](Assets/freelancer_dashboard.png)
+
+- **Client Dashboard:**
+  <br>![Client Dashboard](Assets/client_dashboard.png)
 
 ---
 
