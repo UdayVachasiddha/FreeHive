@@ -1,6 +1,6 @@
 # FreeHive
 
-![FreeHive Banner](https://placehold.co/1200x300?text=FreeHive+-+Freelance+Marketplace)
+![FreeHive Banner](Assets/freehive_banner.jpg)
 
 **FreeHive** is a comprehensive desktop application built with C# and Windows Forms (.NET) that serves as a dynamic marketplace connecting clients with skilled freelancers. It provides a seamless platform for users to post projects, bid on jobs, manage tasks, and communicate securely.
 
